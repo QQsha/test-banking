@@ -1,7 +1,5 @@
 require 'watir'
-require 'open-uri'
 require 'json'
-
 
 
 class Banking
